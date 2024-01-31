@@ -4,13 +4,16 @@
  Im a 24 years and I have been in memphis for about 18 years
 
 I started to get into coding my senior year of high school and wanted to learn about it 
-## Things I like
- <ol>
-  <li>Los Angele Clippers</li>
-  <li>Greenbay Packers</li>
-   <li>FC Barcelona</li>
 
- ##   Things im interested in making
+  ## Things I like
+  <ol>
+   <li>Los Angeles Clippers</li>
+   <li>Greenbay Packers</li>
+   <li>FC Barcelona</li>
+   <ol>
+   
+
+ ## Things im interested in making
 
 <ol> 
   <li> Video Games</li>
